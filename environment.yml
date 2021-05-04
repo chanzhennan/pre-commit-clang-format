@@ -1,0 +1,4 @@
+channels:
+- conda-forge
+dependencies:
+- clang-tools==10.0.0
