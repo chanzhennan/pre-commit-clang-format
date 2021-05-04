@@ -3,4 +3,4 @@
   description: Run `clang-format` on C/C++ files.
   language: conda
   entry: clang-format -i
-  types: [c, c++, cuda, inc]
+  types_or: [c, c++, cuda, inc]
