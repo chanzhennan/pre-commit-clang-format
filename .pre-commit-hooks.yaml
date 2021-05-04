@@ -1,6 +1,6 @@
 - id: clang-format
   name: clang-format
-  description: Run `clang-format` on C/C++ files.
+  description: Run `clang-format` on C/C++/CUDA files.
   language: conda
   entry: clang-format -i
   types_or: [c, c++, cuda, inc]
