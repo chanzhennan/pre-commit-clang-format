@@ -17,10 +17,10 @@ environment.
 Add the following to `.pre-commit-config.yaml` to use this hook:
 
 ```yaml
-  - repo: https://github.com/glotzerlab/pre-commit-clang-format
-    rev: main
-    hooks:
-    - id: clang-format
+- repo: https://github.com/glotzerlab/pre-commit-clang-format
+  rev: main
+  hooks:
+  - id: clang-format
 ```
 
 You can make [conda] an optional requirement by using the `manual` stage:
