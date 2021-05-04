@@ -1,6 +1,6 @@
 # pre-commit-clang-format
 
-A hook for to run [clang-format] on C, C++, CUDA code, and template `inc` files using [pre-commit].
+A hook for running [clang-format] on C, C++, CUDA code, and template `inc` files using [pre-commit].
 
 [clang-format]: https://clang.llvm.org/docs/ClangFormat.html
 [pre-commit]: https://pre-commit.com/
