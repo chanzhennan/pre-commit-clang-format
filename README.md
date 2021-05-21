@@ -18,7 +18,7 @@ Add the following to `.pre-commit-config.yaml` to use this hook:
 
 ```yaml
 - repo: https://github.com/glotzerlab/pre-commit-clang-format
-  rev: v1.0.0
+  rev: v1.1.0
   hooks:
   - id: clang-format
 ```
